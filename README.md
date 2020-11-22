@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi, Welcome to my page 👋
 
-- 🔭 About: Current working at Autodesk Inc. Not a programmer.
-  - ⚡ Autodesk is current looking for Senior+ Software Engineer(C++), send me email if you are interested in the position.
-- 🌱 I’m currently learning Golang.
-- ✨ Interest: 
+- 🔭 About: Current working at Autodesk Inc. I am not a programmer. 
+  - ⚡ Autodesk is current looking for Senior+ Software Engineer(C++), send me email if you are interested in the position
+- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Japanese
+- ✨ Interest in Game/Anime/Comic: 
   - ⚡ Genshin Impact
   - ⚡ Princess Connect!Re:Dive
   - ⚡ BanG Dream!
