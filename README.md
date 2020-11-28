@@ -11,6 +11,8 @@
   - ⚡ Anime Seiyuu
 - 📫 How to reach me: Reachme by email 460512944#qq.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&hide=TeX&layout=compact)
+
 <!--
 **liu599/liu599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
