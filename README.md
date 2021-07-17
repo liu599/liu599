@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Golang
 - 🌱 I’m currently learning Japanese
 - ✨ Interest in Game/Anime/Comic: 
-  - ⚡ Uma Musume 
   - ⚡ Genshin Impact 
   - ⚡ Princess Connect!Re:Dive
   - ⚡ BanG Dream!
