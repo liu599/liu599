@@ -6,9 +6,7 @@
 - ✨ Interest in Game/Anime/Comic: 
   - ⚡ Genshin Impact 
   - ⚡ Princess Connect!Re:Dive
-  - ⚡ BanG Dream!
   - ⚡ Anime Seiyuu
-- 📫 How to reach me: Reachme by email 460512944#qq.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&hide=TeX&layout=compact)
 
