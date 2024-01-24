@@ -1,6 +1,5 @@
 ### Hi, Welcome to my page 👋
 
-- 🔭 About: Current working at Autodesk Inc, Shanghai. I am not a programmer. 
 - 🌱 I’m currently learning Golang
 - 🌱 I’m currently learning Japanese
 - ✨ Interest in Game/Anime/Comic: 
