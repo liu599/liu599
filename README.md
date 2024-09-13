@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python
 - 🌱 I’m currently learning Japanese
 - ✨ Interest in Game/Anime/Comic: 
-  - ⚡ Genshin Impact 
-  - ⚡ Princess Connect!Re:Dive
+  - ⚡ Genshin Impact
+  - 😄 Honkai StarRail
   - ⚡ Anime Seiyuu
 
 
