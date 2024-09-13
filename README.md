@@ -1,6 +1,6 @@
 ### Hi, Welcome to my page 👋
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Python
 - 🌱 I’m currently learning Japanese
 - ✨ Interest in Game/Anime/Comic: 
   - ⚡ Genshin Impact 
