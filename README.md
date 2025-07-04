@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning Python
 - 🌱 I’m currently learning Japanese
-- ✨ Interest in Game/Anime/Comic: 
+- 📫 I’m looking to collaborate on Intelligent App Development
+- ✨ Interested in Game/Anime/Comic: 
   - ⚡ Genshin Impact
   - 😄 Honkai StarRail
   - ⚡ Anime Seiyuu
