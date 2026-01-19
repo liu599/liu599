@@ -1,8 +1,6 @@
 ### Hi, Welcome to my page 👋
 
-- 🌱 I’m currently learning Python
-- 🌱 I’m currently learning Japanese
-- 📫 I’m looking to collaborate on Intelligent App Development
+- 📫 I’m looking to collaborate on Intelligent App Development, Agent Project Management / Development
 - ✨ Interested in Game/Anime/Comic: 
   - ⚡ Genshin Impact
   - 😄 Honkai StarRail
