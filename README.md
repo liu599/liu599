@@ -6,7 +6,6 @@
   - 😄 Honkai StarRail
   - ⚡ Anime Seiyuu
 
-![liu599's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **liu599/liu599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![liu599's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
 -->
