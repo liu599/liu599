@@ -1,11 +1,13 @@
 ### Hi, Welcome to my page 👋
 
-- 📫 I’m looking to collaborate on Intelligent App Development, Agent Project Management / Development
-- ✨ Interested in Game/Anime/Comic: 
+- 📫 Adapting to the AI world.
+- ✨ Interested in Anime/Comic/Game: 
   - ⚡ Genshin Impact
   - 😄 Honkai StarRail
   - ⚡ Anime Seiyuu
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&hide=TeX&layout=compact)
 
 <!--
 **liu599/liu599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
