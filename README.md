@@ -1,29 +1,43 @@
-### Hi, Welcome to my page 👋
+<h2 align="center">👋 Hi there, I'm liu599(Tokei Liu)</h2>
+
+> AI & Eng Director at a start-up company in Shanghai
+
+[![Website Badge](https://img.shields.io/badge/-Website-e4405f?style=flat-square&logo=Website&logoColor=white)](https://blog.ecs32.top)
+
+---
+### Interest 
 
 - 📫 Adapting to the AI world.
-- ✨ Interested in Anime/Comic/Game: 
+- Enjoy building AI-powered applications, automation tools, and cloud-integrated systems.
+- ✨ Love Anime/Comic/Game: 
   - ⚡ Genshin Impact
   - 😄 Honkai StarRail
   - ⚡ Anime Seiyuu
+- Reach me via 460512944#qq.com
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&hide=TeX&layout=compact)
+### 🐍 GitHub Snake
 
-<!--
-**liu599/liu599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&hide=TeX&layout=compact)
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liu599/liu599/output/github-snake.svg"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 📊 GitHub Stats
 
-![liu599's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liu599&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
 
--->
+---
+
+### 🔥 Contribution Streak
+
+![Streak](./profile/streak.svg)
+
+---
+
+### ⏲ WakaTime Stats
+
+![WakaTime](./profile/wakatime.svg)
