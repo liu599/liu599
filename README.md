@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi there, I'm liu599(Tokei Liu)</h2>
 
-> AI & Eng Director at a start-up company in Shanghai
+> AI & Eng Director, Product Manager at a Startup
 
 [![Website Badge](https://img.shields.io/badge/-Website-e4405f?style=flat-square&logo=Website&logoColor=white)](https://blog.ecs32.top)
 
@@ -10,10 +10,9 @@
 - 📫 Adapting to the AI world.
 - Enjoy building AI-powered applications, automation tools, and cloud-integrated systems.
 - ✨ Love Anime/Comic/Game: 
-  - ⚡ Genshin Impact
-  - 😄 Honkai StarRail
-  - ⚡ Anime Seiyuu
-- Reach me via 460512944#qq.com
+  - Genshin Impact
+  - Honkai StarRail
+  - Anime Seiyuu: Aimi, Amane, Minasei Inori, Uchida Maaya
 
 ---
 
