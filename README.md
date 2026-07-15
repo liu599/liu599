@@ -14,6 +14,11 @@
   - Honkai StarRail
   - Anime Seiyuu: Aimi, Amane, Minasei Inori, Uchida Maaya
 
+### GitHub Star Management
+
+- ![My Stars](https://liu599.github.io/stars.html)
+
+
 ---
 
 ### 🐍 GitHub Snake
