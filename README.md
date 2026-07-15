@@ -16,7 +16,7 @@
 
 ### GitHub Star Management
 
-- ![My Stars](https://liu599.github.io/stars.html)
+- [My Stars](https://liu599.github.io/stars.html)
 
 
 ---
